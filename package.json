@@ -1,0 +1,20 @@
+{
+  "name": "babel-intro",
+  "version": "1.0.0",
+  "description": "Npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Makabu <christianmakabu@yahoo.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "node": "^18.4.0",
+    "semver": "^7.3.7"
+  },
+  "type": "module",
+  "devDependencies": {
+    "browserslist": "^4.21.0"
+  }
+}
